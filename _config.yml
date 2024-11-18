@@ -1,0 +1,12 @@
+title: Sunghong Park # your name (or website title) here
+logo: "/IMG_SHP.jpg?raw=true" # your photo (or logo) here
+description: > # your text below (remove <br> elements if you don't need line breaks)
+  <br>
+  <b>Post-Doctoral Researcher</b> <br>
+  Department of Physiology, <br>
+  Ajou University School of Medicine <br>
+  <br>
+  E-mail: <a href="mailto:pshong513@ajou.ac.kr">pshong513@ajou.ac.kr</a><br>
+  <br>
+  <a href="https://scholar.google.com/citations?user=qodN5GQAAAAJ&hl=ko&oi=ao">View My Google Scholar Profile</a>   
+theme: jekyll-theme-minimal
