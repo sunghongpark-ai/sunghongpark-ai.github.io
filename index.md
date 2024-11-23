@@ -62,7 +62,7 @@ Researches on machine learning algorithms and those applications in various fiel
 
 - <b>[14]</b> <b>Sunghong Park</b>, Hyun Goo Woo<sup><span>&#42;</span></sup> _et al_. <b>"Label-free Classification and Localization of Tumors in Whole Slide Images with Multi-view Feature Representation-based One-way Domain Adaptation"</b>.  <span style="color:#3e8edc"><b><i>(In Preparation)</i></b> (2024)</span>
 
-- <b>[13]</b> <b>Sunghong Park<sup>†</sup></b>, Doyoon Kim<sup>†</sup>, Hyunjung Shin<sup><span>&#42;</span></sup>, Hyun Goo Woo<sup><span>&#42;</span></sup> _et al_. <b>"Machine Learning-Based Prediction of Neuropathological Subtypes of Dementia with Plasma Biomarkers"</b>.  <span style="color:#3e8edc"><b><i>(Submitted to) JAMA Network Open</i></b> (2024)</span>
+- <b>[13]</b> <b>Sunghong Park<sup>†</sup></b>, Doyoon Kim<sup>†</sup>, Hyunjung Shin<sup><span>&#42;</span></sup>, Hyun Goo Woo<sup><span>&#42;</span></sup> _et al_. <b>"NeuroFANN: identification of neuropathological subtypes of dementia with plasma biomarkers using functionally annotated neural networks"</b>.  <span style="color:#3e8edc"><b><i>(In Preparation)</i></b> (2024)</span>
 
 - <b>[12]</b> <b>Sunghong Park<sup>†</sup></b>, Dong-gi Lee<sup>†</sup>, Hyun Goo Woo<sup><span>&#42;</span></sup>, Hyunjung Shin<sup><span>&#42;</span></sup> _et al_. <b>"Explainable multiplex graph propagation network with multimodal neuroimage integration for dementia subtype diagnosis"</b>.  <span style="color:#3e8edc"><b><i>(Submitted to) IEEE Transactions on Neural Networks and Learning Systems</i></b> (2024)</span>
 
