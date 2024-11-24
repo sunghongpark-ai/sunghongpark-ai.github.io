@@ -56,7 +56,7 @@ Researches on machine learning algorithms and those applications in various fiel
 
 - <b>[17]</b> <b>Sunghong Park<sup>†</sup></b>, Dong-gi Lee<sup>†</sup>, Yonghyun Nam, Dokyoon Kim<sup><span>&#42;</span></sup>, Hyun Goo Woo<sup><span>&#42;</span></sup>, Hyunjung Shin<sup><span>&#42;</span></sup>. <b>"SeMantiK: semi-supervised multiplex graph domain adaptation for identifying key genes with disease-specific PPI networks"</b>.  <span style="color:#3e8edc"><b><i>(In Preparation)</i></b> (2024)</span>
 
-- <b>[16]</b> <b>Sunghong Park<sup>†</sup></b>, Doyoon Kim<sup>†</sup>, Hyunjung Shin<sup><span>&#42;</span></sup>, Hyun Goo Woo<sup><span>&#42;</span></sup> _et al_. <b>"NeuroFANN: identification of neuropathological subtypes of dementia with plasma biomarkers using functionally annotated neural networks"</b>.  <span style="color:#3e8edc"><b><i>(In Preparation)</i></b> (2024)</span>
+- <b>[16]</b> <b>Sunghong Park<sup>†</sup></b>, Doyoon Kim<sup>†</sup>, Chang Hyung Hong, Sang Joon Son, Hyun Woong Roh, Hyunjung Shin<sup><span>&#42;</span></sup>, Hyun Goo Woo<sup><span>&#42;</span></sup>. <b>"NeuroFANN: identification of neuropathological subtypes of dementia with plasma biomarkers using functionally annotated neural networks"</b>.  <span style="color:#3e8edc"><b><i>(In Preparation)</i></b> (2024)</span>
 
 - <b>[15]</b> <b>Sunghong Park<sup>†</sup></b>, Hyun Jin Hwang<sup>†</sup>, Hyun Goo Woo<sup><span>&#42;</span></sup> _et al_. <b>"Graph-based Multi-view Clustering with Adaptive Anchor for Subtype Classification of Tumors in Whole Slide Images"</b>.  <span style="color:#3e8edc"><b><i>(In Preparation)</i></b> (2024)</span>
 
