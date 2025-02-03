@@ -58,7 +58,7 @@ Researches on machine learning algorithms and those applications in various fiel
 
 - <b>[15]</b> <b>Sunghong Park<sup>†</sup></b>, Dong-gi Lee<sup>†</sup>, Juhyeon Kim<sup>†</sup>, Hyunjung Shin<sup><span>&#42;</span></sup>, Hyun Goo Woo<sup><span>&#42;</span></sup>. <b>"Biologically informed graph propagational network for plasma proteomic profiling of neurobiomarkers"</b>. <span style="color:#3e8edc"><b><i>(In Preparation)</i></b> (2025)</span>
 
-- <b>[14]</b> <b>Sunghong Park<sup>†</sup></b>, Dong-gi Lee<sup>†</sup>, Juhyeon Kim<sup>†</sup>, Hyunjung Shin<sup><span>&#42;</span></sup>, Hyun Goo Woo<sup><span>&#42;</span></sup>. <b>"PPIxGPN: plasma proteomic identification of neurodegenerative biomarkers with protein-protein interaction-based explainable graph propagational network"</b>. <span style="color:#3e8edc"><b><i>(In Preparation)</i></b> (2025)</span>
+- <b>[14]</b> <b>Sunghong Park<sup>†</sup></b>, Dong-gi Lee<sup>†</sup>, Juhyeon Kim<sup>†</sup>, Hyunjung Shin<sup><span>&#42;</span></sup>, Hyun Goo Woo<sup><span>&#42;</span></sup>. <b>"PPIxGPN: plasma proteomic profiling of neurodegenerative biomarkers with protein-protein interaction-based explainable graph propagational network"</b>. <span style="color:#3e8edc"><b><i>(Submitted to) Artificial Intelligence In Medicine</i></b> (2025)</span>
 
 - <b>[13]</b> <b>Sunghong Park<sup>†</sup></b>, Dong-gi Lee<sup>†</sup>, Juhyeon Kim<sup>†</sup>, Hyunjung Shin<sup><span>&#42;</span></sup>, Hyun Goo Woo<sup><span>&#42;</span></sup>. <b>"MultiGENN: multiplex graph ensemble neural network for plasma proteomic profiling of neurodegenerative biomarkers"</b>. <span style="color:#3e8edc"><b><i>(Submitted to) ISMB/ECCB 2025</i></b> (2025)</span>
 
