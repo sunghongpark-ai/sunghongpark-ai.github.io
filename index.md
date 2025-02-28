@@ -159,6 +159,18 @@ Researches on machine learning algorithms and those applications in various fiel
 
 ## Patents
 
+- <b>[9]</b> <b>SNP 상호작용 데이터 기반 알츠하이머병 유전적 위험 진단 장치 및 방법</b>
+  - 출원번호: 10-2025-0024936 (출원일자: 2025년 02월 26일).
+  - 발명자: 신현정, 우현구, <b>박성홍</b>.
+
+- <b>[8]</b> <b>경도 인지 장애 하위유형 진단 장치 및 방법</b>
+  - 출원번호: 10-2025-0006453 (출원일자: 2025년 01월 16일).
+  - 발명자: 신현정, 우현구, <b>박성홍</b>.
+
+- <b>[7]</b> <b>치매 하위유형 진단 장치 및 방법</b>
+  - 출원번호: 10-2024-0166395 (출원일자: 2024년 11월 20일).
+  - 발명자: 신현정, <b>박성홍</b>, 우현구.
+
 - <b>[6]</b> <b>PROSPECTIVE CLASSIFICATION DEVICE FOR PREDICTING DEMENTIA AND OPERATION METHOD OF THE SAME</b> [[Link](https://patents.google.com/patent/US20240221955A1/en)]
   - Application No.: 18/401,742 (Filed: Jan. 2, 2024) & Publication No.: US 2024/0221955 A1 (Date: Jul. 4, 2024).
   - Inventors: Hyunjung Shin, Chang Hyung Hong, Sang Joon Son, Hyun Woong Roh, <b>Sunghong Park</b>.
