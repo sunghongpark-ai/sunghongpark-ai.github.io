@@ -42,7 +42,7 @@ Researches on machine learning algorithms and those applications in various fiel
 ## Journal Publications
 <b><span>[</span> <sup>†</sup> Equally contributed authors & <sup><span>&#42;</span></sup> Corresponding authors <span>]</span></b>
 
-- <b>[15]</b> <b>Sunghong Park<sup>†</sup></b>, Dong-gi Lee<sup>†</sup>, Juhyeon Kim<sup>†</sup>, Masaud Shah, Seung Ho Kim, Hyeon Jin Hwang, Hyunjung Shin<sup><span>&#42;</span></sup>, Hyun Goo Woo<sup><span>&#42;</span></sup>. <b>"BIGPN: biologically informed graph propagational network for plasma proteomic profiling of neurodegenerative biomarkers"</b>. <span style="color:#3e8edc"><b><i>(In Preparation)</i></b> (2025)</span>
+- <b>[15]</b> <b>Sunghong Park<sup>†</sup></b>, Dong-gi Lee<sup>†</sup>, Juhyeon Kim<sup>†</sup>, Masaud Shah, Seung Ho Kim, Hyeon Jin Hwang, Hyunjung Shin<sup><span>&#42;</span></sup>, Hyun Goo Woo<sup><span>&#42;</span></sup>. <b>"BIGPN: biologically informed graph propagational network for plasma proteomic profiling of neurodegenerative biomarkers"</b>. <span style="color:#3e8edc"><b><i>(Submitted to) Computers in Biology and Medicine</i></b> (2025)</span>
 
 - <b>[14]</b> <b>Sunghong Park<sup>†</sup></b>, Dong-gi Lee<sup>†</sup>, Juhyeon Kim<sup>†</sup>, Hyunjung Shin<sup><span>&#42;</span></sup>, Hyun Goo Woo<sup><span>&#42;</span></sup>. <b>"MultiGENN: multiplex graph ensemble neural network for plasma proteomic profiling of neurodegenerative biomarkers"</b>. <span style="color:#3e8edc"><b><i>(Submitted to) Computers in Biology and Medicine</i></b> (2025)</span>
 
