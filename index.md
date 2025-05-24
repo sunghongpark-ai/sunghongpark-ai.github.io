@@ -42,7 +42,7 @@ Researches on machine learning algorithms and those applications in various fiel
 ## Journal Publications
 <b><span>[</span> <sup>†</sup> Equally contributed authors & <sup><span>&#42;</span></sup> Corresponding authors <span>]</span></b>
 
-- <b>[15]</b> <b>Sunghong Park<sup>†</sup></b>, Yonghyun Nam<sup>†</sup>, Juhyeon Kim<sup>†</sup>, Hyun Goo Woo<sup><span>&#42;</span></sup>, Hyunjung Shin<sup><span>&#42;</span></sup>. <b>"Multiplex Graph Domain Adaptation for Semi-Supervised Learning"</b>. <span style="color:#3e8edc"><b><i>(Submitted to) Knowledge-Based Systems</i></b> (2025)</span>
+- <b>[15]</b> <b>Sunghong Park<sup>†</sup></b>, Yonghyun Nam<sup>†</sup>, Juhyeon Kim<sup>†</sup>, Hyun Goo Woo<sup><span>&#42;</span></sup>, Hyunjung Shin<sup><span>&#42;</span></sup>. <b>"Multiplex Graph Domain Adaptation for Semi-Supervised Learning"</b>. <span style="color:#3e8edc"><b><i>(Submitted to) Applied Soft Computing</i></b> (2025)</span>
 
 - <b>[14]</b> <b>Sunghong Park<sup>†</sup></b>, Dong-gi Lee<sup>†</sup>, Juhyeon Kim<sup>†</sup>, Masaud Shah, Seung Ho Kim, Hyeon Jin Hwang, Hyunjung Shin<sup><span>&#42;</span></sup>, Hyun Goo Woo<sup><span>&#42;</span></sup>. <b>"BIGPN: biologically informed graph propagational network for plasma proteomic profiling of neurodegenerative biomarkers"</b>. <span style="color:#3e8edc"><b><i>(Submitted to) Artificial Intelligence in Medicine</i></b> (2025)</span>
 
