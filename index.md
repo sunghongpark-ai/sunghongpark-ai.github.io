@@ -42,15 +42,19 @@ Researches on machine learning algorithms and those applications in various fiel
 ## Journal Publications
 <b><span>[</span> <sup>†</sup> Equally contributed authors & <sup>&#42;</sup> Corresponding authors <span>]</span></b>
 
-- <b>[20]</b> <b>Sunghong Park</b>, Hyun Goo Woo<sup>&#42;</sup>. <b>"Bridging the Generalization Gap in Digital Pathology with Adaptive Multi-site Harmonization"</b>. <span style="color:#3e8edc"><b><i>(In Preparation)</i></b> (2025)</span>
+- <b>[22]</b> <b>Sunghong Park</b>, Julien Calderaro<sup>&#42;</sup>, Hyun Goo Woo<sup>&#42;</sup>. <b>"Domain Knowledge-Informed Spatial Analysis for Robust and Interpretable Spatial Omics"</b>. <span style="color:#3e8edc"><b><i>(In Preparation)</i></b> (2025)</span>
 
-- <b>[19]</b> <b>Sunghong Park</b>, Hyun Goo Woo<sup>&#42;</sup>. <b>"Interpretable and Robust Pan-Cancer Histopathology Analysis via Neuro-Symbolic Geometry Prototyping Network"</b>. <span style="color:#3e8edc"><b><i>(In Preparation)</i></b> (2025)</span>
+- <b>[21]</b> <b>Sunghong Park</b>, Julien Calderaro<sup>&#42;</sup>, Hyun Goo Woo<sup>&#42;</sup>. <b>"Multimodal Graph-Based Framework for Inferring Spatiotemporal Tumor Evolution from Static Snapshots"</b>. <span style="color:#3e8edc"><b><i>(In Preparation)</i></b> (2025)</span>
 
-- <b>[18]</b> <b>Sunghong Park</b>, Hyun Goo Woo<sup>&#42;</sup>. <b>"Harmonizing Heterogeneous Interactomes through Principled Domain Adaptation"</b>. <span style="color:#3e8edc"><b><i>(In Preparation)</i></b> (2025)</span>
+- <b>[20]</b> <b>Sunghong Park</b>, Julien Calderaro<sup>&#42;</sup>, Hyun Goo Woo<sup>&#42;</sup>. <b>"Bridging the Generalization Gap in Digital Pathology with Adaptive Multi-site Harmonization"</b>. <span style="color:#3e8edc"><b><i>(In Preparation)</i></b> (2025)</span>
+
+- <b>[19]</b> <b>Sunghong Park</b>, Julien Calderaro<sup>&#42;</sup>, Hyun Goo Woo<sup>&#42;</sup>. <b>"Interpretable and Robust Pan-Cancer Histopathology Analysis via Neuro-Symbolic Geometry Prototyping Network"</b>. <span style="color:#3e8edc"><b><i>(In Preparation)</i></b> (2025)</span>
+
+- <b>[18]</b> <b>Sunghong Park</b>, Hyun Goo Woo<sup>&#42;</sup>, Hyunjung Shin<sup>&#42;</sup>. <b>"Harmonizing Heterogeneous Interactomes through Principled Domain Adaptation"</b>. <span style="color:#3e8edc"><b><i>(In Preparation)</i></b> (2025)</span>
 
 - <b>[17]</b> <b>Sunghong Park</b>, Hyun Goo Woo<sup>&#42;</sup>, Hyunjung Shin<sup>&#42;</sup>. <b>"Weaving a Unified Graph Tapestry: A Principled Information Fusion for Multi-Source Domain Adaptation"</b>. <span style="color:#3e8edc"><b><i>(In Preparation)</i></b> (2025)</span>
 
-- <b>[16]</b> <b>Sunghong Park</b>, Hyun Goo Woo<sup>&#42;</sup>. <b>"Joint propagation through a hierarchy of multiplex biological networks enables interpretable prediction of tumour stage and survival"</b>. <span style="color:#3e8edc"><b><i>(In Preparation)</i></b> (2025)</span>
+- <b>[16]</b> <b>Sunghong Park</b>, Hyunjung Shin<sup>&#42;</sup>, Hyun Goo Woo<sup>&#42;</sup>. <b>"Joint propagation through a hierarchy of multiplex biological networks enables interpretable prediction of tumour stage and survival"</b>. <span style="color:#3e8edc"><b><i>(In Preparation)</i></b> (2025)</span>
 
 - <b>[15]</b> <b>Sunghong Park<sup>†</sup></b>, Yonghyun Nam<sup>†</sup>, Juhyeon Kim<sup>†</sup>, Hyun Goo Woo<sup>&#42;</sup>, Hyunjung Shin<sup>&#42;</sup>. <b>"Multiplex Graph Domain Adaptation for Semi-Supervised Learning"</b>. <span style="color:#3e8edc"><b><i>(Submitted to) Applied Soft Computing</i></b> (2025)</span>
 
