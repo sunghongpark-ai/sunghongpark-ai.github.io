@@ -52,7 +52,7 @@ Researches on machine learning algorithms and those applications in various fiel
 
 - <b>[19]</b> <b>Sunghong Park</b>, Julien Calderaro<sup>&#42;</sup>, Hyun Goo Woo<sup>&#42;</sup>. <b>"MorphoMIL: Morphology-Aware Multiple Instance Learning with Hierarchical Supervision for Whole-Slide Image Classification"</b>. <span style="color:#3e8edc"><b><i>(In Preparation)</i></b> (2025)</span>
 
-- <b>[18]</b> <b>Sunghong Park</b>, Hyun Goo Woo<sup>&#42;</sup>, Hyunjung Shin<sup>&#42;</sup>. <b>"Weaving a Unified Graph Tapestry: A Principled Information Fusion for Multi-Source Domain Adaptation"</b>. <span style="color:#3e8edc"><b><i>(In Preparation)</i></b> (2025)</span>
+- <b>[18]</b> <b>Sunghong Park</b>, Hyun Goo Woo<sup>&#42;</sup>, Hyunjung Shin<sup>&#42;</sup>. <b>"FIDELIS: Unifying Explainability and Fidelity with Graph-Constrained Rationale Learning"</b>. <span style="color:#3e8edc"><b><i>(In Preparation)</i></b> (2025)</span>
 
 - <b>[17]</b> <b>Sunghong Park</b>, Hyun Goo Woo<sup>&#42;</sup>, Hyunjung Shin<sup>&#42;</sup>. <b>"PRISM: Principled Representation Integration for Semi-supervised Multiplex networks"</b>. <span style="color:#3e8edc"><b><i>(In Preparation)</i></b> (2025)</span>
 
