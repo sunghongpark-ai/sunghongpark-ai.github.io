@@ -50,7 +50,7 @@ Researches on machine learning algorithms and those applications in various fiel
 
 - <b>[20]</b> <b>Sunghong Park</b>, Julien Calderaro<sup>&#42;</sup>, Hyun Goo Woo<sup>&#42;</sup>. <b>"Pan-cancer Histopathology Analysis with Transparent Neuro-symbolic Geometry Prototyping"</b>. <span style="color:#3e8edc"><b><i>(In Preparation)</i></b> (2025)</span>
 
-- <b>[19]</b> <b>Sunghong Park</b>, Julien Calderaro<sup>&#42;</sup>, Hyun Goo Woo<sup>&#42;</sup>. <b>"MorphoMIL: Morphology-Aware Multiple Instance Learning with Hierarchical Supervision for Whole-Slide Image Classification"</b>. <span style="color:#3e8edc"><b><i>(In Preparation)</i></b> (2025)</span>
+- <b>[19]</b> <b>Sunghong Park</b>, Julien Calderaro<sup>&#42;</sup>, Hyun Goo Woo<sup>&#42;</sup>. <b>"MoProMIL: Morphological Prototype‑Guided Multiple Instance Learning for Trustworthy Whole‑Slide Image Analysis"</b>. <span style="color:#3e8edc"><b><i>(In Preparation)</i></b> (2025)</span>
 
 - <b>[18]</b> <b>Sunghong Park</b>, Hyun Goo Woo<sup>&#42;</sup>, Hyunjung Shin<sup>&#42;</sup>. <b>"FIDELIS: Unifying Explainability and Fidelity with Graph-Constrained Rationale Learning"</b>. <span style="color:#3e8edc"><b><i>(In Preparation)</i></b> (2025)</span>
 
