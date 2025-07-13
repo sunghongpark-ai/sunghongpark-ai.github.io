@@ -42,11 +42,13 @@ Researches on machine learning algorithms and those applications in various fiel
 ## Journal Publications
 <b><span>[</span> <sup>†</sup> Equally contributed authors & <sup>&#42;</sup> Corresponding authors <span>]</span></b>
 
-- <b>[24]</b> <b>Sunghong Park</b>, Julien Calderaro<sup>&#42;</sup>, Hyun Goo Woo<sup>&#42;</sup>. <b>"Domain Knowledge-Informed Spatial Analysis for Robust and Interpretable Spatial Omics"</b>. <span style="color:#3e8edc"><b><i>(In Preparation)</i></b> (2025)</span>
+- <b>[25]</b> <b>Sunghong Park</b>, Julien Calderaro<sup>&#42;</sup>, Hyun Goo Woo<sup>&#42;</sup>. <b>"Domain Knowledge-Informed Spatial Analysis for Robust and Interpretable Spatial Omics"</b>. <span style="color:#3e8edc"><b><i>(In Preparation)</i></b> (2025)</span>
 
-- <b>[23]</b> <b>Sunghong Park</b>, Julien Calderaro<sup>&#42;</sup>, Hyun Goo Woo<sup>&#42;</sup>. <b>"Multimodal Graph-Based Framework for Inferring Spatiotemporal Tumor Evolution from Static Snapshots"</b>. <span style="color:#3e8edc"><b><i>(In Preparation)</i></b> (2025)</span>
+- <b>[24]</b> <b>Sunghong Park</b>, Julien Calderaro<sup>&#42;</sup>, Hyun Goo Woo<sup>&#42;</sup>. <b>"Multimodal Graph-Based Framework for Inferring Spatiotemporal Tumor Evolution from Static Snapshots"</b>. <span style="color:#3e8edc"><b><i>(In Preparation)</i></b> (2025)</span>
 
-- <b>[22]</b> <b>Sunghong Park</b>, Julien Calderaro<sup>&#42;</sup>, Hyun Goo Woo<sup>&#42;</sup>. <b>"Bridging the Generalization Gap in Digital Pathology with Adaptive Multi-site Harmonization"</b>. <span style="color:#3e8edc"><b><i>(In Preparation)</i></b> (2025)</span>
+- <b>[23]</b> <b>Sunghong Park</b>, Julien Calderaro<sup>&#42;</sup>, Hyun Goo Woo<sup>&#42;</sup>. <b>"Bridging the Generalization Gap in Digital Pathology with Adaptive Multi-site Harmonization"</b>. <span style="color:#3e8edc"><b><i>(In Preparation)</i></b> (2025)</span>
+
+- <b>[22]</b> <b>Sunghong Park</b>, Hyun Goo Woo<sup>&#42;</sup>. <b>"Neuro-Causal Transformer for Mechanistic Discovery in Neurogenomics"</b>. <span style="color:#3e8edc"><b><i>(In Preparation)</i></b> (2025)</span>
 
 - <b>[21]</b> <b>Sunghong Park</b>, Hyun Goo Woo<sup>&#42;</sup>, Hyunjung Shin<sup>&#42;</sup>. <b>"Balancing the Unbalanceable: Dynamic Pareto-Aligned Distillation for the Separability–Coherence Trade-off"</b>. <span style="color:#3e8edc"><b><i>(In Preparation)</i></b> (2025)</span>
 
