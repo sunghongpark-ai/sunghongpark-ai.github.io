@@ -56,7 +56,7 @@ Researches on machine learning algorithms and those applications in various fiel
 
 - <b>[19]</b> <b>Sunghong Park</b>, Julien Calderaro<sup>&#42;</sup>, Hyun Goo Woo<sup>&#42;</sup>. <b>"Complexity-Guided Learning on Computational Pathology"</b>. <span style="color:#3e8edc"><b><i>(In Preparation)</i></b> (2025)</span>
 
-- <b>[18]</b> <b>Sunghong Park</b>, Julien Calderaro<sup>&#42;</sup>, Hyun Goo Woo<sup>&#42;</sup>. <b>"SPOT MIL: Spatially Aware Prototype Based Optimal Transport Alignment for Trustworthy Multiple Instance Learning in Whole Slide Image Analysis"</b>. <span style="color:#3e8edc"><b><i>(In Preparation)</i></b> (2025)</span>
+- <b>[18]</b> <b>Sunghong Park</b>, Julien Calderaro<sup>&#42;</sup>, Hyun Goo Woo<sup>&#42;</sup>. <b>"SPOT-MIL: Spatially Aware Prototype-Based Optimal Transport Alignment for Trustworthy Multiple Instance Learning in Whole Slide Image Analysis"</b>. <span style="color:#3e8edc"><b><i>(In Preparation)</i></b> (2025)</span>
 
 - <b>[17]</b> <b>Sunghong Park</b>, Hyun Goo Woo<sup>&#42;</sup>, Hyunjung Shin<sup>&#42;</sup>. <b>"PRISM: Principled Representation Integration for Semi-supervised Multiplex networks"</b>. <span style="color:#3e8edc"><b><i>(In Preparation)</i></b> (2025)</span>
 
