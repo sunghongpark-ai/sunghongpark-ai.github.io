@@ -50,7 +50,7 @@ Researches on machine learning algorithms and those applications in various fiel
 
 - <b>[22]</b> <b>Sunghong Park</b>, Hyun Goo Woo<sup>&#42;</sup>. <b>"Neuro-Causal Transformer for Mechanistic Discovery in Neurogenomics"</b>. <span style="color:#3e8edc"><b><i>(In Preparation)</i></b> (2025)</span>
 
-- <b>[21]</b> <b>Sunghong Park</b>, Hyun Goo Woo<sup>&#42;</sup>, Hyunjung Shin<sup>&#42;</sup>. <b>"Balancing the Unbalanceable: Dynamic Pareto-Aligned Distillation for the Separability–Coherence Trade-off"</b>. <span style="color:#3e8edc"><b><i>(In Preparation)</i></b> (2025)</span>
+- <b>[21]</b> <b>Sunghong Park</b>, Hyun Goo Woo<sup>&#42;</sup>, Hyunjung Shin<sup>&#42;</sup>. <b>"Balancing the Unbalanceable: Dynamic Pareto-Guided Optimization via Gradient Equalization"</b>. <span style="color:#3e8edc"><b><i>(In Preparation)</i></b> (2025)</span>
 
 - <b>[20]</b> <b>Sunghong Park</b>, Hyun Goo Woo<sup>&#42;</sup>, Hyunjung Shin<sup>&#42;</sup>. <b>"Graph-Regularized Eigendecomposition for Principled and Structured Concept-Based Learning"</b>. <span style="color:#3e8edc"><b><i>(In Preparation)</i></b> (2025)</span>
 
