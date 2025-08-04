@@ -82,7 +82,7 @@ Researches on machine learning algorithms and those applications in various fiel
 
 - <b>[06]</b> <b>Sunghong Park</b>, Sang Joon Son, Kanghee Park, Yonghyun Nam, Hyunjung Shin<sup>&#42;</sup>. <b>"In-house data adaptation to public data: multisite MRI harmonization to predict Alzheimer’s disease conversion"</b>.  <span style="color:#3e8edc"><b><i> Expert Systems with Applications</i></b>, 238:122253, March 2024.</span> (JCR2022 - IF=8.5 / Top 6.4%) [[Paper](https://doi.org/10.1016/j.eswa.2023.122253)]
 
-- <b>[05]</b> <b>Sunghong Park<sup>†</sup></b>, Kanghee Park<sup>†</sup>, Hyunjung Shin<sup>&#42;</sup>. <b>"Network based Enterprise Profiling with Semi-Supervised Learning"</b>.  <span style="color:#3e8edc"><b><i> Expert Systems with Applications</i></b>, 238:121716, March 2024.</span> (JCR2022 - IF=8.5 / Top 6.4%) [[Paper](https://doi-org.libproxy.ajou.ac.kr/10.1016/j.eswa.2023.121716)]
+- <b>[05]</b> <b>Sunghong Park<sup>†</sup></b>, Kanghee Park<sup>†</sup>, Hyunjung Shin<sup>&#42;</sup>. <b>"Network based Enterprise Profiling with Semi-Supervised Learning"</b>.  <span style="color:#3e8edc"><b><i> Expert Systems with Applications</i></b>, 238:121716, March 2024.</span> (JCR2022 - IF=8.5 / Top 6.4%) [[Paper](https://doi.org/10.1016/j.eswa.2023.121716)]
 
 - <b>[04]</b> <b>Sunghong Park</b>, Myung Jun Kim, Kanghee Park, Hyunjung Shin<sup>&#42;</sup>. <b>"Mutual Domain Adaptation"</b>.  <span style="color:#3e8edc"><b><i> Pattern Recognition</i></b>, 145:109919, January 2024.</span> (JCR2022 - IF=8.0 / Top 10.7%) [[Paper](https://doi.org/10.1016/j.patcog.2023.109919)]
   
