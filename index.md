@@ -62,7 +62,7 @@ Researches on machine learning algorithms and those applications in various fiel
 
 - <b>[16]</b> <b>Sunghong Park</b>, Hyunjung Shin<sup>&#42;</sup>, Hyun Goo Woo<sup>&#42;</sup>. <b>"Joint propagation through a hierarchy of multiplex biological networks enables interpretable prediction of tumour stage and survival"</b>. <span style="color:#3e8edc"><b><i>(In Preparation)</i></b> (2025)</span>
 
-- <b>[15]</b> <b>Sunghong Park<sup>†</sup></b>, Yonghyun Nam<sup>†</sup>, Juhyeon Kim<sup>†</sup>, Hyun Goo Woo<sup>&#42;</sup>, Hyunjung Shin<sup>&#42;</sup>. <b>"Multiplex Graph Domain Adaptation for Semi-Supervised Learning"</b>. <span style="color:#3e8edc"><b><i>(Submitted to) Applied Soft Computing</i></b> (2025)</span>
+- <b>[15]</b> <b>Sunghong Park<sup>†</sup></b>, Yonghyun Nam<sup>†</sup>, Juhyeon Kim<sup>†</sup>, Hyun Goo Woo<sup>&#42;</sup>, Hyunjung Shin<sup>&#42;</sup>. <b>"Multiplex Graph Domain Adaptation for Semi-Supervised Learning"</b>. <span style="color:#3e8edc"><b><i>(Submitted to) Neurocomputing</i></b> (2025)</span>
 
 - <b>[14]</b> <b>Sunghong Park<sup>†</sup></b>, Masaud Shah<sup>†</sup>, JeongHeun Yeon, Ji-Hye Choi, Muhammad Hussain, Hyunjung Shin<sup>&#42;</sup>, Hyun Goo Woo<sup>&#42;</sup>. <b>"MultiGENN: multiplex graph ensemble neural network for plasma proteomic profiling of neurodegenerative biomarkers"</b>. <span style="color:#3e8edc"><b><i>(Submitted to) IEEE Journal of Biomedical and Health Informatics</i></b> (2025)</span>
 
