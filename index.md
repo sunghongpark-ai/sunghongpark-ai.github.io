@@ -58,7 +58,7 @@ Researches on machine learning algorithms and those applications in various fiel
 
 - <b>[17]</b> <b>Sunghong Park</b>, JeongHeun Yeon, Junghyun Kim, Hyun Goo Woo<sup>&#42;</sup>, Hyunjung Shin<sup>&#42;</sup>. <b>"Balancing the Unbalanceable: Harnessing Productive Tension via Dynamic Pareto-Guided Optimization"</b>. <span style="color:#3e8edc"><b><i>(In Preparation)</i></b> (2025)</span>
 
-- <b>[16]</b> <b>Sunghong Park<sup>†</sup></b>, Ji-Hye Choi<sup>†</sup>, Hyun Goo Woo<sup>&#42;</sup>. <b>"Consensus-driven Knowledge Fusion for Biologically Interpretable Cancer Risk Stratification"</b>. <span style="color:#3e8edc"><b><i>(In Preparation)</i></b> (2025)</span>
+- <b>[16]</b> <b>Sunghong Park<sup>†</sup></b>, Ji-Hye Choi<sup>†</sup>, Hyun Goo Woo<sup>&#42;</sup>. <b>"Interpretable Cancer Stratification via Hierarchical Ontology Representation Learning on Robustly Fused Multiplex Interactome"</b>. <span style="color:#3e8edc"><b><i>(In Preparation)</i></b> (2025)</span>
 
 - <b>[15]</b> <b>Sunghong Park</b>, Yonghyun Nam, JeongHeun Yeon, Hyun Goo Woo<sup>&#42;</sup>, Hyunjung Shin<sup>&#42;</sup>. <b>"Multiplex Graph Domain Adaptation for Semi-Supervised Learning"</b>. <span style="color:#3e8edc"><b><i>(Submitted to) Neurocomputing</i></b> (2025)</span>
 
