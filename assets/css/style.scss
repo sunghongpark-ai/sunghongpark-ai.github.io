@@ -1,28 +1,11 @@
 ---
 ---
-/* Import the GitHub Pages 'Minimal' theme's styles first */
+/* 1) 테마 CSS를 먼저 불러옵니다 */
 @import "{{ site.theme }}";
 
-/* 
- * Make the content area wider on desktop/laptop screens while keeping the
- * mobile layout (<= 960px) exactly as the theme intended.
- *
- * You can tune the '1200px' below to your preference (e.g., 1100px, 1280px).
- */
+/* 2) 데스크톱(> 960px)에서만 폭 확장 */
 @media screen and (min-width: 961px) {
-  /* The theme uses a fixed container width/max-width. Override both for safety. */
-  .wrapper {
-    max-width: 1200px;
-    width: min(1200px, calc(100vw - 100px)); /* respect body padding */
-  }
-
-  /* The theme has a fixed 270px sidebar (header).
-     Let the right-hand content (<section>) take the remaining space. */
-  section {
-    width: calc(95% - 270px);
-  }
-
-  /* Optional: If you want a slightly narrower sidebar to gain more content width,
-     uncomment the next rule (recommend 220–240px). */
-  /* header { width: 240px; } */
+  .wrapper { width: min(1400px, calc(100vw - 100px)); }
+  section  { width: calc(195% - 270px); }
+  header { width: 200px; }
 }
