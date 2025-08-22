@@ -47,23 +47,23 @@ Researches on machine learning algorithms and those applications in various fiel
 ## Ongoing Research
 <b><span>[</span> <sup>†</sup> Equally contributed authors & <sup>&#42;</sup> Corresponding authors <span>]</span></b>
 
-- <b>[09]</b> <b>Sunghong Park</b>, Julien Calderaro<sup>&#42;</sup>, Hyun Goo Woo<sup>&#42;</sup>. <b>"Bridging the Generalization Gap in Digital Pathology with Adaptive Multi-site Harmonization"</b>. <span style="color:#3e8edc"><b><i>(In Preparation)</i></b> (2025)</span>
+- <b>[09]</b> <b>Sunghong Park</b>, Julien Calderaro<sup>&#42;</sup>, Hyun Goo Woo<sup>&#42;</sup>. <b>"Bridging the Generalization Gap in Digital Pathology with Adaptive Multi-site Harmonization"</b>.
 
-- <b>[08]</b> <b>Sunghong Park</b>, Julien Calderaro<sup>&#42;</sup>, Hyun Goo Woo<sup>&#42;</sup>. <b>"Domain Knowledge-Informed Spatial Analysis for Robust and Interpretable Spatial Omics"</b>. <span style="color:#3e8edc"><b><i>(In Preparation)</i></b> (2025)</span>
+- <b>[08]</b> <b>Sunghong Park</b>, Julien Calderaro<sup>&#42;</sup>, Hyun Goo Woo<sup>&#42;</sup>. <b>"Domain Knowledge-Informed Spatial Analysis for Robust and Interpretable Spatial Omics"</b>.
 
-- <b>[07]</b> <b>Sunghong Park</b>, Julien Calderaro<sup>&#42;</sup>, Hyun Goo Woo<sup>&#42;</sup>. <b>"Causal Inference on Spatiotemporal Dynamics of Tumor Evolution from Static Multimodal Snapshots"</b>. <span style="color:#3e8edc"><b><i>(In Preparation)</i></b> (2025)</span>
+- <b>[07]</b> <b>Sunghong Park</b>, Julien Calderaro<sup>&#42;</sup>, Hyun Goo Woo<sup>&#42;</sup>. <b>"Causal Inference on Spatiotemporal Dynamics of Tumor Evolution from Static Multimodal Snapshots"</b>.
 
-- <b>[06]</b> <b>Sunghong Park</b>, Hyun Goo Woo<sup>&#42;</sup>, Hyunjung Shin<sup>&#42;</sup>. <b>"Causal Diffusion on Multiplex Graphs for Robust Out-of-Distribution Generalization"</b>. <span style="color:#3e8edc"><b><i>(In Preparation)</i></b> (2025)</span>
+- <b>[06]</b> <b>Sunghong Park</b>, Hyun Goo Woo<sup>&#42;</sup>, Hyunjung Shin<sup>&#42;</sup>. <b>"Causal Diffusion on Multiplex Graphs for Robust Out-of-Distribution Generalization"</b>.
 
-- <b>[05]</b> <b>Sunghong Park</b>, Hyun Goo Woo<sup>&#42;</sup>, Hyunjung Shin<sup>&#42;</sup>. <b>"Generalized Discriminant Analysis for Explainable Concept Learning within Structurally-Aware Geometric Space"</b>. <span style="color:#3e8edc"><b><i>(In Preparation)</i></b> (2025)</span>
+- <b>[05]</b> <b>Sunghong Park</b>, Hyun Goo Woo<sup>&#42;</sup>, Hyunjung Shin<sup>&#42;</sup>. <b>"Generalized Discriminant Analysis for Explainable Concept Learning within Structurally-Aware Geometric Space"</b>.
 
-- <b>[04]</b> <b>Sunghong Park</b>, Julien Calderaro<sup>&#42;</sup>, Hyun Goo Woo<sup>&#42;</sup>. <b>"Complexity-Guided Learning on Computational Pathology"</b>. <span style="color:#3e8edc"><b><i>(In Preparation)</i></b> (2025)</span>
+- <b>[04]</b> <b>Sunghong Park</b>, Julien Calderaro<sup>&#42;</sup>, Hyun Goo Woo<sup>&#42;</sup>. <b>"Complexity-Guided Learning on Computational Pathology"</b>.
 
-- <b>[03]</b> <b>Sunghong Park</b>, Julien Calderaro<sup>&#42;</sup>, Hyun Goo Woo<sup>&#42;</sup>. <b>"SPOT-MIL: Spatially-Guided Prototype-Based Optimal Transport Alignment for Trustworthy Multiple Instance Learning in Whole Slide Image Analysis"</b>. <span style="color:#3e8edc"><b><i>(In Preparation)</i></b> (2025)</span>
+- <b>[03]</b> <b>Sunghong Park</b>, Julien Calderaro<sup>&#42;</sup>, Hyun Goo Woo<sup>&#42;</sup>. <b>"SPOT-MIL: Spatially-Guided Prototype-Based Optimal Transport Alignment for Trustworthy Multiple Instance Learning in Whole Slide Image Analysis"</b>.
 
-- <b>[02]</b> <b>Sunghong Park</b>, JeongHeun Yeon, Junghyun Kim, Hyun Goo Woo<sup>&#42;</sup>, Hyunjung Shin<sup>&#42;</sup>. <b>"Balancing the Unbalanceable: Harnessing Productive Tension via Dynamic Pareto-Guided Optimization"</b>. <span style="color:#3e8edc"><b><i>(In Preparation)</i></b> (2025)</span>
+- <b>[02]</b> <b>Sunghong Park<sup>†</sup></b>, Junghyun Kim<sup>†</sup>, JeongHeun Yeon, Hyun Goo Woo<sup>&#42;</sup>, Hyunjung Shin<sup>&#42;</sup>. <b>"Balancing the Unbalanceable: Harnessing Productive Tension via Dynamic Pareto-Guided Optimization"</b>.
 
-- <b>[01]</b> <b>Sunghong Park<sup>†</sup></b>, Ji-Hye Choi<sup>†</sup>, Hyun Goo Woo<sup>&#42;</sup>. <b>"Interpretable Cancer Stratification via Hierarchical Ontology Representation Learning on Robustly Fused Multiplex Interactome"</b>. <span style="color:#3e8edc"><b><i>(In Preparation)</i></b> (2025)</span>
+- <b>[01]</b> <b>Sunghong Park<sup>†</sup></b>, Ji-Hye Choi<sup>†</sup>, Hyun Goo Woo<sup>&#42;</sup>. <b>"Interpretable Cancer Risk Stratification via Hierarchical Ontology Representation Learning on Robustly Fused Multiplex Interactome"</b>.
 
 
 ---
