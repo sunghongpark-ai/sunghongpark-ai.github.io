@@ -1,0 +1,19 @@
+---
+---
+
+/* 1) 테마 CSS를 먼저 불러옵니다 */
+@import "minimal";
+
+/* 2) 데스크톱(> 960px)에서만 더 넓게 보이도록 오버라이드 */
+@media screen and (min-width: 960px) {
+  
+  /* .wrapper의 최대 너비를 1200px로 확장합니다. */
+  .wrapper {
+    max-width: 1200px; /* 원하시는 너비로 조절하세요. (예: 1100px, 80% 등) */
+  }
+
+  /* * (선택) 왼쪽 사이드바 폭도 살짝 줄이고 싶다면 주석 해제
+   * header { width: 240px; }
+   * section { margin-left: 260px; } /* 줄어든 header 폭(240px) + 간격(20px) */
+   */
+}
