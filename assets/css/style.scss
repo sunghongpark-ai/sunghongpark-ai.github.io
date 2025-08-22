@@ -6,6 +6,6 @@
 /* 2) 데스크톱(> 960px)에서만 폭 확장 */
 @media screen and (min-width: 961px) {
   .wrapper { width: min(1280px, calc(100vw - 100px)); }
-  section  { width: calc(195% - 270px); }
+  section  { width: calc(95% - 200px); }
   header { width: 220px; }
 }
