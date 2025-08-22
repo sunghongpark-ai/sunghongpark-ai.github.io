@@ -19,7 +19,7 @@
   /* The theme has a fixed 270px sidebar (header).
      Let the right-hand content (<section>) take the remaining space. */
   section {
-    width: calc(80% - 270px);
+    width: calc(90% - 270px);
   }
 
   /* Optional: If you want a slightly narrower sidebar to gain more content width,
