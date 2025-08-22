@@ -1,3 +1,9 @@
+---
+layout: default
+title: Sunghong Park
+
+---
+
 # Portfolio
 Researches on machine learning algorithms and those applications in various fields
 
