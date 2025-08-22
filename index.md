@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Sunghong Park
-
 ---
 
 # Portfolio
