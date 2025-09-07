@@ -47,23 +47,17 @@ Researches on machine learning algorithms and those applications in various fiel
 ## Ongoing Research
 <b><span>[</span> <sup>†</sup> Equally contributed authors & <sup>&#42;</sup> Corresponding authors <span>]</span></b>
 
-- <b>[09]</b> <b>Sunghong Park</b>, Julien Calderaro<sup>&#42;</sup>, Hyun Goo Woo<sup>&#42;</sup>. <b>"Bridging the Generalization Gap in Digital Pathology with Adaptive Multi-site Harmonization"</b>.
-
-- <b>[08]</b> <b>Sunghong Park</b>, Julien Calderaro<sup>&#42;</sup>, Hyun Goo Woo<sup>&#42;</sup>. <b>"Domain Knowledge-Informed Spatial Analysis for Robust and Interpretable Spatial Omics"</b>.
-
-- <b>[07]</b> <b>Sunghong Park</b>, Julien Calderaro<sup>&#42;</sup>, Hyun Goo Woo<sup>&#42;</sup>. <b>"Causal Inference on Spatiotemporal Dynamics of Tumor Evolution from Static Multimodal Snapshots"</b>.
-
 - <b>[06]</b> <b>Sunghong Park</b>, Hyun Goo Woo<sup>&#42;</sup>, Hyunjung Shin<sup>&#42;</sup>. <b>"Causal Diffusion on Multiplex Graphs for Robust Out-of-Distribution Generalization"</b>.
 
 - <b>[05]</b> <b>Sunghong Park</b>, Hyun Goo Woo<sup>&#42;</sup>, Hyunjung Shin<sup>&#42;</sup>. <b>"Generalized Discriminant Analysis for Explainable Concept Learning within Structurally-Aware Geometric Space"</b>.
 
-- <b>[04]</b> <b>Sunghong Park</b>, Julien Calderaro<sup>&#42;</sup>, Hyun Goo Woo<sup>&#42;</sup>. <b>"Complexity-Guided Learning on Computational Pathology"</b>.
+- <b>[04]</b> <b>Sunghong Park<sup>†</sup></b>, Junghyun Kim<sup>†</sup>, JeongHeun Yeon, Hyun Goo Woo<sup>&#42;</sup>, Hyunjung Shin<sup>&#42;</sup>. <b>"Balancing the Unbalanceable: Harnessing Productive Tension via Dynamic Pareto-Guided Optimization"</b>.
 
-- <b>[03]</b> <b>Sunghong Park</b>, Julien Calderaro<sup>&#42;</sup>, Hyun Goo Woo<sup>&#42;</sup>. <b>"SPOT-MIL: Spatially-Guided Prototype-Based Optimal Transport Alignment for Trustworthy Multiple Instance Learning in Whole Slide Image Analysis"</b>.
+- <b>[03]</b> <b>Sunghong Park</b>, Julien Calderaro<sup>&#42;</sup>, Hyun Goo Woo<sup>&#42;</sup>. <b>"Causally-Infused Complexity-Guided Learning on Computational Pathology"</b>.
 
-- <b>[02]</b> <b>Sunghong Park<sup>†</sup></b>, Junghyun Kim<sup>†</sup>, JeongHeun Yeon, Hyun Goo Woo<sup>&#42;</sup>, Hyunjung Shin<sup>&#42;</sup>. <b>"Balancing the Unbalanceable: Harnessing Productive Tension via Dynamic Pareto-Guided Optimization"</b>.
+- <b>[02]</b> <b>Sunghong Park</b>, Julien Calderaro<sup>&#42;</sup>, Hyun Goo Woo<sup>&#42;</sup>. <b>"SPOT-MIL: Spatially-Guided Prototype-Based Optimal Transport Alignment for Trustworthy Multiple Instance Learning in Whole Slide Image Analysis"</b>.
 
-- <b>[01]</b> <b>Sunghong Park<sup>†</sup></b>, Ji-Hye Choi<sup>†</sup>, Hyun Goo Woo<sup>&#42;</sup>. <b>"Interpretable Cancer Risk Stratification via Hierarchical Ontology Representation Learning on Robustly Fused Multiplex Interactome"</b>.
+- <b>[01]</b> <b>Sunghong Park<sup>†</sup></b>, Ji-Hye Choi<sup>†</sup>, Hyun Goo Woo<sup>&#42;</sup>. <b>"HiOMiX: Interpretable Cancer Risk Stratification via Hierarchical Ontology Representation Learning on Robustly Fused Multiplex Interactome"</b>.
 
 
 ---
