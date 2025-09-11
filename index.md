@@ -166,41 +166,41 @@ Researches on machine learning algorithms and those applications in various fiel
 
 ---
 
-## Patents
+## Patent Achievements
 
-- <b>[9]</b> <b>SNP 상호작용 데이터 기반 알츠하이머병 유전적 위험 진단 장치 및 방법</b>
+- <b>[09]</b> <b>SNP 상호작용 데이터 기반 알츠하이머병 유전적 위험 진단 장치 및 방법</b>
   - 출원번호: 10-2025-0024936 (출원일자: 2025년 02월 26일).
   - 발명자: 신현정, 우현구, <b>박성홍</b>.
 
-- <b>[8]</b> <b>경도 인지 장애 하위유형 진단 장치 및 방법</b>
+- <b>[08]</b> <b>경도 인지 장애 하위유형 진단 장치 및 방법</b>
   - 출원번호: 10-2025-0006453 (출원일자: 2025년 01월 16일).
   - 발명자: 신현정, 우현구, <b>박성홍</b>.
 
-- <b>[7]</b> <b>치매 하위유형 진단 장치 및 방법</b>
+- <b>[07]</b> <b>치매 하위유형 진단 장치 및 방법</b>
   - 출원번호: 10-2024-0166395 (출원일자: 2024년 11월 20일).
   - 발명자: 신현정, <b>박성홍</b>, 우현구.
 
-- <b>[6]</b> <b>PROSPECTIVE CLASSIFICATION DEVICE FOR PREDICTING DEMENTIA AND OPERATION METHOD OF THE SAME</b> [[Link](https://patents.google.com/patent/US20240221955A1/en)]
+- <b>[06]</b> <b>PROSPECTIVE CLASSIFICATION DEVICE FOR PREDICTING DEMENTIA AND OPERATION METHOD OF THE SAME</b> [[Link](https://patents.google.com/patent/US20240221955A1/en)]
   - Application No.: 18/401,742 (Filed: Jan. 2, 2024) & Publication No.: US 2024/0221955 A1 (Date: Jul. 4, 2024).
   - Inventors: Hyunjung Shin, Chang Hyung Hong, Sang Joon Son, Hyun Woong Roh, <b>Sunghong Park</b>.
 
-- <b>[5]</b> <b>LEARNING METHOD AND DEVICE FOR ALZHEIMER PREDICTION MODEL BASED ON DOMAIN ADAPTATION</b> [[Link](https://patents.google.com/patent/US20240221946A1/en)]
+- <b>[05]</b> <b>LEARNING METHOD AND DEVICE FOR ALZHEIMER PREDICTION MODEL BASED ON DOMAIN ADAPTATION</b> [[Link](https://patents.google.com/patent/US20240221946A1/en)]
   - Application No.: 18/401,741 (Filed: Jan. 2, 2024) & Publication No.: US 2024/0221946 A1 (Date: Jul. 4, 2024).
   - Inventors: Hyunjung Shin, Chang Hyung Hong, Sang Joon Son, Hyun Woong Roh, <b>Sunghong Park</b>.
 
-- <b>[4]</b> <b>Domain adaptation method for longitudinal data and device using thereof</b> [[Link](https://patents.google.com/patent/US20240220575A1/en)]
+- <b>[04]</b> <b>Domain adaptation method for longitudinal data and device using thereof</b> [[Link](https://patents.google.com/patent/US20240220575A1/en)]
   - Application No.: 18/398,170 (Filed: Dec. 28, 2023) & Publication No.: US 2024/0220575 A1 (Date: Jul. 4, 2024).
   - Inventors: Hyunjung Shin, Chang Hyung Hong, Sang Joon Son, Hyun Woong Roh, <b>Sunghong Park</b>.
 
-- <b>[3]</b> <b>치매 예측을 위한 전향적 분류 장치 및 이의 동작 방법</b> [[Link](https://doi.org/10.8080/1020230196108)]
+- <b>[03]</b> <b>치매 예측을 위한 전향적 분류 장치 및 이의 동작 방법</b> [[Link](https://doi.org/10.8080/1020230196108)]
   - 출원번호: 10-2023-0196108 (출원일자: 2023년 12월 29일) & 공개번호: 10-2024-0108289 (공개일자: 2024년 07월 09일).
   - 발명자: 신현정, <b>박성홍</b>, 손상준, 홍창형, 노현웅.
 
-- <b>[2]</b> <b>도메인 적응 기반 알츠하이머 예측 모델 학습 방법 및 장치</b> [[Link](https://doi.org/10.8080/1020230196220)]
+- <b>[02]</b> <b>도메인 적응 기반 알츠하이머 예측 모델 학습 방법 및 장치</b> [[Link](https://doi.org/10.8080/1020230196220)]
   - 출원번호: 10-2023-0196220 (출원일자: 2023년 12월 29일) & 공개번호: 10-2024-0108291 (공개일자: 2024년 07월 09일).
   - 발명자: 신현정, <b>박성홍</b>, 손상준, 홍창형, 노현웅.
 
-- <b>[1]</b> <b>종단적 데이터에 대한 도메인 적응 방법 및 이를 이용한 장치</b> [[Link](https://doi.org/10.8080/1020230192832)]
+- <b>[01]</b> <b>종단적 데이터에 대한 도메인 적응 방법 및 이를 이용한 장치</b> [[Link](https://doi.org/10.8080/1020230192832)]
   - 출원번호: 10-2023-0192832 (출원일자: 2023년 12월 27일) & 공개번호: 10-2024-0108271 (공개일자: 2024년 07월 09일).
   - 발명자: 신현정, <b>박성홍</b>, 손상준, 홍창형, 노현웅.
 
@@ -209,15 +209,15 @@ Researches on machine learning algorithms and those applications in various fiel
 
 ## Awards
 
-- <b>[4]</b> Best Presentation Paper Award, Proc. of Korea Computer Congress 2022 (KCC 2022)
+- <b>[04]</b> Best Presentation Paper Award, Proc. of Korea Computer Congress 2022 (KCC 2022)
   - <b>Sunghong Park</b>, Sang Joon Son, Yonghyun Nam, Hyunjung Shin*. "Predicting Alzheimer's disease progression using multi-site domain adaptation".
 
-- <b>[3]</b> Best Paper Award, Proc. of Korea Software Congress 2020 (KSC 2020)
+- <b>[03]</b> Best Paper Award, Proc. of Korea Software Congress 2020 (KSC 2020)
   - <b>Sunghong Park</b>, Myungjun Kim, Hyunjung Shin*. "Mutual Semi-Supervised Learning".
 
-- <b>[2]</b> Best Paper Award, Proc. of Korea Computer Congress 2018 (KCC 2018)
+- <b>[02]</b> Best Paper Award, Proc. of Korea Computer Congress 2018 (KCC 2018)
   - Dong-gi Lee, Myungjun Kim, <b>Sunghong Park</b>, Hyunjung Shin*. "Inference on Chains of Disease Causal Relationship based on k-shortest Path Algorithm".
 
-- <b>[1]</b> Best Presentation Paper Award, Proc. of Korea Computer Congress 2018 (KCC 2018)
+- <b>[01]</b> Best Presentation Paper Award, Proc. of Korea Computer Congress 2018 (KCC 2018)
   - <b>Sunghong Park</b>, Dong-gi Lee, Hyunjung Shin*. "SentiWordNet based Korean Sentiment Dictionary Construction via Machine Learning".
 
