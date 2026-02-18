@@ -3,22 +3,20 @@ layout: default
 title: Sunghong Park
 ---
 
-# Portfolio
+# Portfolio Summary
+
 - My research focuses on semi-supervised learning, domain adaptation/harmonization, and biologically informed graph neural networks for multimodal dementia diagnosis and biomarker discovery using neuroimaging and plasma proteomics.
   - 13 peer-reviewed journal articles + 1 manuscript under review (first/co-first author).
   - 17 patent applications (KR/PCT/US), including 6 published applications.
   - 41 conference presentations.
   - Principal Investigator (PI), National Research Foundation of Korea (NRF) Basic Science Research Program.
+
+- Curriculum Vitae (Last updated: February 18, 2026).
+
 
 ---
 
 ## Research Interests
-
-- My research focuses on semi-supervised learning, domain adaptation/harmonization, and biologically informed graph neural networks for multimodal dementia diagnosis and biomarker discovery using neuroimaging and plasma proteomics.
-  - 13 peer-reviewed journal articles + 1 manuscript under review (first/co-first author).
-  - 17 patent applications (KR/PCT/US), including 6 published applications.
-  - 41 conference presentations.
-  - Principal Investigator (PI), National Research Foundation of Korea (NRF) Basic Science Research Program.
 
 - <b>Machine Learning Algorithm</b>  
   - <b>Graph Representation:</b> Graph Integration, Graph Comparison, Graph Embedding
