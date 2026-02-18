@@ -10,7 +10,7 @@ title: Sunghong Park
 
 ---
 
-## Research Interests
+# Research Interests
 
 - <b>My research focuses on graph representation learning, semi-supervised learning, domain adaptation/transfer learning, and biomedical artificial intelligence models for disease diagnosis and biomarker discovery using multimodal data.</b>
   - 13 peer-reviewed journal articles + 1 manuscript under review (first/co-first author).
@@ -251,7 +251,7 @@ title: Sunghong Park
 
 ---
 
-## Awards
+## Awards & Honors
 
 - <b>[04]</b> Best Presentation Paper Award, Proc. of Korea Computer Congress 2022 (KCC 2022)
   - <b>Sunghong Park</b>, Sang Joon Son, Yonghyun Nam, Hyunjung Shin*. "Predicting Alzheimer's disease progression using multi-site domain adaptation".
