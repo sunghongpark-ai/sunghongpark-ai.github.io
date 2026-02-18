@@ -47,18 +47,12 @@ Researches on machine learning algorithms and those applications in various fiel
 
 - <b>Daegu Science High School</b>, Daegu, Republic of Korea (March 2006 - February 2009)
 
+
 ---
 
-## Education
+## Grant & Funding
 
-- <b>Ajou University</b>, Suwon, Republic of Korea (March 2009 - August 2022)
-
-  - <b>Ph.D.</b> in Artificial Intelligence (March 2016 - August 2022)
-    - Thesis: Graph Domain Adaptation for Semi-Supervised Learning [[Thesis](https://www.riss.kr/search/detail/DetailView.do?p_mat_type=be54d9b8bc7cdb09&control_no=6f7620c84c3853e5ffe0bdc3ef48d419&keyword=%EB%B0%95%EC%84%B1%ED%99%8D)]
-    - Advised by Professor Hyunjung Shin [[Lab](http://alphaminers.ai/)]
-  - <b>B.S.</b> in Industrial Engineering (March 2009 - February 2016)
-
-- <b>Daegu Science High School</b>, Daegu, Republic of Korea (March 2006 - February 2009)
+- <b>[01]</b> <b>PI: [2022.09 - 2025.08.]</b>, Basic Science Research Program, <b>"Multi-Modal and Multi-Domain based Machine Learning Algorithms for Dementia Progression Prediction" (2022R1A6A3A01086784)</b>, supported by the National Research Foundation of Korea (NRF) funded by the Ministry of Education, Republic of Korea.
 
 
 ---
