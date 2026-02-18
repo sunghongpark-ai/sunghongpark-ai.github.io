@@ -178,7 +178,7 @@ Researches on machine learning algorithms and those applications in various fiel
   - 발명자: 신현정, 우현구, <b>박성홍</b>.
 
 - <b>[15]</b> <b>단백질 상호작용 네트워크 및 생물학적 경로 구조를 통합한 신경퇴행성 질환 위험도 예측 시스템 및 그 방법</b>
-  - 출원번호: 10-2024-0175115 (출원일자: 2025년 11월 18일).
+  - 출원번호: 10-2025-0175115 (출원일자: 2025년 11월 18일).
   - 발명자: 우현구, 신현정, <b>박성홍</b>.
 
 - <b>[14]</b> <b>단백질 간 상호작용 네트워크 및 클러스터링을 이용한 신경퇴행성 질환 위험도 예측 시스템 및 그 방법</b>
@@ -186,11 +186,11 @@ Researches on machine learning algorithms and those applications in various fiel
   - 발명자: 우현구, 신현정, <b>박성홍</b>, 홍창형, 손상준, 노현웅.
 
 - <b>[13]</b> <b>APPARATUS AND METHOD OF DIAGNOSING GENETIC RISK OF ALZHEIMER'S DISEASE BASED ON SNP INTERACTION DATA</b>
-  - Application No.: PCT/KR2025/014322 (Date: Sep. 15, 2025).
+  - Application No.: PCT/KR2025/014322 (Filed: Sep. 15, 2025).
   - Inventors: Hyunjung Shin, Hyun Goo Woo, <b>Sunghong Park</b>.
 
 - <b>[12]</b> <b>DIAGNOSIS APPARATUS AND METHOD OF MILD COGNITIVE IMPAIRMENT SUBTYPE</b>
-  - Application No.: PCT/KR2025/014318 (Date: Sep. 15, 2025).
+  - Application No.: PCT/KR2025/014318 (Filed: Sep. 15, 2025).
   - Inventors: Hyunjung Shin, Hyun Goo Woo, <b>Sunghong Park</b>.
 
 - <b>[11]</b> <b>인공지능을 이용한 혈장 단백질 프로파일링 기반의 신경퇴행성 질환 위험도 예측 시스템 및 그 방법</b>
@@ -198,7 +198,7 @@ Researches on machine learning algorithms and those applications in various fiel
   - 발명자: 우현구, 신현정, <b>박성홍</b>.
 
 - <b>[10]</b> <b>APPARATUS AND METHOD OF DIAGNOSING DEMENTIA SUBTYPES</b>
-  - Application No.: PCT/KR2025/095161 (Date: Apr. 4, 2025).
+  - Application No.: PCT/KR2025/095161 (Filed: Apr. 4, 2025).
   - Inventors: Hyunjung Shin, <b>Sunghong Park</b>, Hyun Goo Woo.
 
 - <b>[09]</b> <b>SNP 상호작용 데이터 기반 알츠하이머병 유전적 위험 진단 장치 및 방법</b>
