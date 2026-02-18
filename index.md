@@ -15,7 +15,7 @@ title: Sunghong Park
 - <b>My research focuses on graph representation learning, semi-supervised learning, domain adaptation/transfer learning, and biomedical artificial intelligence models for disease diagnosis and biomarker discovery using multimodal data.</b>
   - 13 peer-reviewed journal articles + 1 manuscript under review (first/co-first author).
   - 17 patent applications (KR/PCT/US), including 6 published applications.
-  - 41 conference presentations.
+  - 41 conference presentations, including 4 best paper/presentation awards.
   - Principal Investigator (PI), National Research Foundation of Korea (NRF) Basic Science Research Program.
 
 - <b>Machine Learning Algorithm</b>  
