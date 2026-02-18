@@ -3,14 +3,14 @@ layout: default
 title: Sunghong Park
 ---
 
-# Curriculum Vitae
+## Curriculum Vitae
 
 <b>[ [Download](https://github.com/user-attachments/files/25395074/CV_SunghongPark_.2026.02.19.pdf) &#124; Last Updated: February 19, 2026 ]</b>
 
 
 ---
 
-# Research Interests
+## Research Interests
 
 - <b>My research focuses on graph representation learning, semi-supervised learning, domain adaptation/transfer learning, and biomedical artificial intelligence models for disease diagnosis and biomarker discovery using multimodal data.</b>
   - 13 peer-reviewed journal articles + 1 manuscript under review (first/co-first author).
