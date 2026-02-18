@@ -10,6 +10,23 @@ Researches on machine learning algorithms and those applications in various fiel
 ---
 
 ## Research Interests
+
+My research focuses on semi-supervised learning, domain adaptation/harmonization, and biologically informed graph neural networks for multimodal dementia diagnosis and biomarker discovery using neuroimaging and plasma proteomics.
+
+- 13 peer-reviewed journal articles + 1 manuscript under review (first/co-first author).
+- 17 patent applications (KR/PCT/US), including 6 published applications.
+- 41 conference presentations.
+- Principal Investigator (PI), National Research Foundation of Korea (NRF) Basic Science Research Program.
+
+Methods: semi-supervised learning, domain adaptation/transfer learning, optimization, applied statistics, graph-based algorithms, neural networks.
+Biomedical AI: network-based modeling (gene/disease/drug networks), explainable graph neural networks for plasma proteomics, multimodal learning for dementia subtyping and risk prediction.
+Additional experience: text mining (sentiment analysis, customer review analysis, sentiment lexicon construction); enterprise profiling and scoring.
+Programming: MATLAB, Python, R, SQL, C/C++, Java.
+
+
+---
+
+## Research Interests
 - <b>Graph-based Machine Learning</b>  
   - <b>Graph Representation:</b> Graph Integration, Graph Comparison, Graph Embedding
   - <b>Semi-Supervised Learning:</b> Label Propagation, Optimization
@@ -23,10 +40,18 @@ Researches on machine learning algorithms and those applications in various fiel
 
 ---
 
-## Experience
+## Experience & Education
 - <b>Post-doctoral Researcher</b> (September 2022 - Present)
   - Ajou University School of Medicine, Suwon, Republic of Korea
 
+- <b>Ajou University</b>, Suwon, Republic of Korea (March 2009 - August 2022)
+
+  - <b>Ph.D.</b> in Artificial Intelligence (March 2016 - August 2022)
+    - Thesis: Graph Domain Adaptation for Semi-Supervised Learning [[Thesis](https://www.riss.kr/search/detail/DetailView.do?p_mat_type=be54d9b8bc7cdb09&control_no=6f7620c84c3853e5ffe0bdc3ef48d419&keyword=%EB%B0%95%EC%84%B1%ED%99%8D)]
+    - Advised by Professor Hyunjung Shin [[Lab](http://alphaminers.ai/)]
+  - <b>B.S.</b> in Industrial Engineering (March 2009 - February 2016)
+
+- <b>Daegu Science High School</b>, Daegu, Republic of Korea (March 2006 - February 2009)
 
 ---
 
