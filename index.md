@@ -13,15 +13,30 @@ Researches on machine learning algorithms and those applications in various fiel
 
 My research focuses on semi-supervised learning, domain adaptation/harmonization, and biologically informed graph neural networks for multimodal dementia diagnosis and biomarker discovery using neuroimaging and plasma proteomics.
 
-- 13 peer-reviewed journal articles + 1 manuscript under review (first/co-first author).
-- 17 patent applications (KR/PCT/US), including 6 published applications.
-- 41 conference presentations.
-- Principal Investigator (PI), National Research Foundation of Korea (NRF) Basic Science Research Program.
+  - 13 peer-reviewed journal articles + 1 manuscript under review (first/co-first author).
+  - 17 patent applications (KR/PCT/US), including 6 published applications.
+  - 41 conference presentations.
+  - Principal Investigator (PI), National Research Foundation of Korea (NRF) Basic Science Research Program.
 
-Methods: semi-supervised learning, domain adaptation/transfer learning, optimization, applied statistics, graph-based algorithms, neural networks.
-Biomedical AI: network-based modeling (gene/disease/drug networks), explainable graph neural networks for plasma proteomics, multimodal learning for dementia subtyping and risk prediction.
-Additional experience: text mining (sentiment analysis, customer review analysis, sentiment lexicon construction); enterprise profiling and scoring.
-Programming: MATLAB, Python, R, SQL, C/C++, Java.
+- <b>Research Summary</b>
+  - 13 peer-reviewed journal articles + 1 manuscript under review (first/co-first author).
+  - 17 patent applications (KR/PCT/US), including 6 published applications.
+  - 41 conference presentations.
+  - Principal Investigator (PI), National Research Foundation of Korea (NRF) Basic Science Research Program.
+
+- <b>Machine Learning Algorithm</b>  
+  - <b>Graph Representation:</b> Graph Integration, Graph Comparison, Graph Embedding
+  - <b>Semi-Supervised Learning:</b> Label Propagation, Optimization
+  - <b>Domain Adaptation:</b> Transfer Learning, Heterogeneous Feature Adaptation, Multi-Modal Data, Longitudinal Data
+
+- <b>Biomedical Artificial Intelligence</b>
+  - Network-based modeling (gene/disease/drug networks)
+  - Explainable graph neural networks for genomics/proteomics
+  - Multimodal learning for disease subtyping and risk prediction
+
+- <b>Additional Research Experience</b>  
+  - <b>Text Mining:</b> Sentiment Analysis, Customer Review Analysis, Sentiment Lexicon Construction
+  - <b>Finance:</b> Enterprise Evaluation Model, Enterprise Profiling and Scoring  
 
 
 ---
@@ -41,7 +56,9 @@ Programming: MATLAB, Python, R, SQL, C/C++, Java.
 ---
 
 ## Experience & Education
+
 - <b>Post-doctoral Researcher</b> (September 2022 - Present)
+
   - Ajou University School of Medicine, Suwon, Republic of Korea
 
 - <b>Ajou University</b>, Suwon, Republic of Korea (March 2009 - August 2022)
