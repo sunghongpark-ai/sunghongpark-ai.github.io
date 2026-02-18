@@ -47,25 +47,26 @@ Researches on machine learning algorithms and those applications in various fiel
 ## Ongoing Research
 <b><span>[</span> <sup>†</sup> Equally contributed authors & <sup>&#42;</sup> Corresponding authors <span>]</span></b>
 
-- <b>[06]</b> <b>Sunghong Park</b>, Hyun Goo Woo<sup>&#42;</sup>, Hyunjung Shin<sup>&#42;</sup>. <b>"Causal Diffusion on Multiplex Graphs for Robust Out-of-Distribution Generalization"</b>.
+- <b>[08]</b> <b>Sunghong Park</b>, Hyun Goo Woo<sup>&#42;</sup>, Hyunjung Shin<sup>&#42;</sup>. <b>"Causal Diffusion on Multiplex Graphs for Robust Out-of-Distribution Generalization"</b>.
 
-- <b>[05]</b> <b>Sunghong Park</b>, Hyun Goo Woo<sup>&#42;</sup>, Hyunjung Shin<sup>&#42;</sup>. <b>"Generalized Discriminant Analysis for Explainable Concept Learning within Structurally-Aware Geometric Space"</b>.
+- <b>[07]</b> <b>Sunghong Park</b>, Hyun Goo Woo<sup>&#42;</sup>, Hyunjung Shin<sup>&#42;</sup>. <b>"Generalized Discriminant Analysis for Explainable Concept Learning within Structurally-Aware Geometric Space"</b>.
 
-- <b>[04]</b> <b>Sunghong Park<sup>†</sup></b>, Junghyun Kim<sup>†</sup>, JeongHeun Yeon, Hyun Goo Woo<sup>&#42;</sup>, Hyunjung Shin<sup>&#42;</sup>. <b>"Balancing the Unbalanceable: Harnessing Productive Tension via Dynamic Pareto-Guided Optimization"</b>.
+- <b>[06]</b> <b>Sunghong Park<sup>†</sup></b>, Junghyun Kim<sup>†</sup>, JeongHeun Yeon, Hyun Goo Woo<sup>&#42;</sup>, Hyunjung Shin<sup>&#42;</sup>. <b>"Balancing the Unbalanceable: Harnessing Productive Tension via Dynamic Pareto-Guided Optimization"</b>.
 
-- <b>[03]</b> <b>Sunghong Park</b>, Julien Calderaro<sup>&#42;</sup>, Hyun Goo Woo<sup>&#42;</sup>. <b>"Causally-Infused Complexity-Guided Learning on Computational Pathology"</b>.
+- <b>[05]</b> <b>Sunghong Park</b>, Hyun Goo Woo<sup>&#42;</sup>. <b>"Causally-Infused Complexity-Guided Learning on Computational Pathology"</b>.
 
-- <b>[02]</b> <b>Sunghong Park</b>, Julien Calderaro<sup>&#42;</sup>, Hyun Goo Woo<sup>&#42;</sup>. <b>"SPOT-MIL: Spatially-Guided Prototype-Based Optimal Transport Alignment for Trustworthy Multiple Instance Learning in Whole Slide Image Analysis"</b>.
+- <b>[04]</b> <b>Sunghong Park<sup>†</sup></b>, Junghyun Kim<sup>†</sup>, JeongHeun Yeon, Hyun Goo Woo<sup>&#42;</sup>, Hyunjung Shin<sup>&#42;</sup>. <b>"Distributionally Robust Manifold Alignment Framework for Geometric Information Fusion for Multiplex Graphs under Extreme Label Scarcity"</b>.
 
-- <b>[01]</b> <b>Sunghong Park<sup>†</sup></b>, Ji-Hye Choi<sup>†</sup>, Hyun Goo Woo<sup>&#42;</sup>. <b>"HiOMiX: Interpretable Cancer Risk Stratification via Hierarchical Ontology Representation Learning on Robustly Fused Multiplex Interactome"</b>.
+- <b>[03]</b> <b>Sunghong Park<sup>†</sup></b>, Ji-Hye Choi<sup>†</sup>, Hyun Goo Woo<sup>&#42;</sup>. <b>"Artificial Intelligence-based Foundation-to-Precision Framework for Robust Survival Prediction and Therapeutic Hypothesis Generation in Hepatocellular Carcinoma"</b>.
 
+- <b>[02]</b> <b>Sunghong Park</b>, Julien Calderaro, Hyun Goo Woo<sup>&#42;</sup>. <b>"SPOT-MIL: Spatially-Guided Prototype-Based Optimal Transport Alignment for Trustworthy Multiple Instance Learning in Whole Slide Image Analysis"</b>.
+
+- <b>[01]</b> <b>Sunghong Park</b>, JeongHeun Yeon, Hyun Goo Woo<sup>&#42;</sup>, Hyunjung Shin<sup>&#42;</sup>. <b>"Robust Multiplex Graph Domain Adaptation via Pseudo-Label-Free Manifold Alignment under Extreme Label Scarcity"</b>.
 
 ---
 
 ## Journal Publications
 <b><span>[</span> <sup>†</sup> Equally contributed authors & <sup>&#42;</sup> Corresponding authors <span>]</span></b>
-
-- <b>[15]</b> <b>Sunghong Park</b>, Yonghyun Nam, JeongHeun Yeon, Hyun Goo Woo<sup>&#42;</sup>, Hyunjung Shin<sup>&#42;</sup>. <b>"Multiplex Graph Domain Adaptation for Semi-Supervised Learning"</b>. <span style="color:#3e8edc"><b><i>(Submitted to) Neurocomputing</i></b> (2025)</span>
 
 - <b>[14]</b> <b>Sunghong Park<sup>†</sup></b>, Masaud Shah<sup>†</sup>, JeongHeun Yeon, Ji-Hye Choi, Muhammad Hussain, Hyunjung Shin<sup>&#42;</sup>, Hyun Goo Woo<sup>&#42;</sup>. <b>"MultiGENN: multiplex graph ensemble neural network for plasma proteomic profiling of neurodegenerative biomarkers"</b>. <span style="color:#3e8edc"><b><i>(Submitted to) IEEE Journal of Biomedical and Health Informatics</i></b> (2025)</span>
 
