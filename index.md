@@ -12,7 +12,7 @@ title: Sunghong Park
 
 ## Research Interests
 
-- My research focuses on graph representation learning, semi-supervised learning, domain adaptation/transfer learning, and biomedical artificial intelligence models for disease diagnosis and biomarker discovery using multimodal data.
+- <b>My research focuses on graph representation learning, semi-supervised learning, domain adaptation/transfer learning, and biomedical artificial intelligence models for disease diagnosis and biomarker discovery using multimodal data.</b>
   - 13 peer-reviewed journal articles + 1 manuscript under review (first/co-first author).
   - 17 patent applications (KR/PCT/US), including 6 published applications.
   - 41 conference presentations.
