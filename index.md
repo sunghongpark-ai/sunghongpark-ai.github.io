@@ -5,32 +5,29 @@ title: Sunghong Park
 
 # Portfolio Summary
 
-- My research focuses on semi-supervised learning, domain adaptation/harmonization, and biologically informed graph neural networks for multimodal dementia diagnosis and biomarker discovery using neuroimaging and plasma proteomics.
+- My research focuses on graph representation learning, semi-supervised learning, domain adaptation/transfer learning, and biomedical artificial intelligence models for disease diagnosis and biomarker discovery using multimodal data.
   - 13 peer-reviewed journal articles + 1 manuscript under review (first/co-first author).
   - 17 patent applications (KR/PCT/US), including 6 published applications.
   - 41 conference presentations.
   - Principal Investigator (PI), National Research Foundation of Korea (NRF) Basic Science Research Program.
 
-- Curriculum Vitae is Here (Last updated: February 18, 2026).
+- Curriculum Vitae is Here (Last updated: February 19, 2026).
 
+[CV_SunghongPark_(2026.02.19.).pdf](https://github.com/user-attachments/files/25395074/CV_SunghongPark_.2026.02.19.pdf)
+[CV_SunghongPark_(2026.02.19.).pdf](https://github.com/user-attachments/files/25395074/CV_SunghongPark_.2026.02.19.pdf)
 
 ---
 
 ## Research Interests
 
 - <b>Machine Learning Algorithm</b>  
-  - <b>Graph Representation:</b> Graph Integration, Graph Comparison, Graph Embedding
-  - <b>Semi-Supervised Learning:</b> Label Propagation, Optimization
-  - <b>Domain Adaptation:</b> Transfer Learning, Heterogeneous Feature Adaptation, Multi-Modal Data, Longitudinal Data
+  - Graph-based representation learning, Semi-supervised learning, Domain adaptation, Transfer learning, Model optimization, Neural Networks, Applied statistics.
 
 - <b>Biomedical Artificial Intelligence</b>
-  - Network-based modeling (gene/disease/drug networks)
-  - Explainable graph neural networks for genomics/proteomics
-  - Multimodal learning for disease subtyping and risk prediction
+  - Network-based modeling (gene/disease/drug networks), Explainable graph neural networks for genomics/proteomics, Multimodal learning for disease subtyping and risk prediction.
 
 - <b>Additional Research Experience</b>  
-  - <b>Text Mining:</b> Sentiment Analysis, Customer Review Analysis, Sentiment Lexicon Construction
-  - <b>Finance:</b> Enterprise Evaluation Model, Enterprise Profiling and Scoring  
+  -  Text mining (sentiment and review analysis), Finance (enterprise evaluation model).
 
 
 ---
@@ -61,7 +58,7 @@ title: Sunghong Park
 ---
 
 ## Ongoing Research
-<b><span>[</span> <sup>†</sup> Equally contributed authors & <sup>&#42;</sup> Corresponding authors <span>]</span></b>
+<b><span>[</span> <sup>†</sup> Co-first author & <sup>&#42;</sup> Corresponding author <span>]</span></b>
 
 - <b>[08]</b> <b>Sunghong Park</b>, Hyun Goo Woo<sup>&#42;</sup>, Hyunjung Shin<sup>&#42;</sup>. <b>"Causal Diffusion on Multiplex Graphs for Robust Out-of-Distribution Generalization"</b>.
 
@@ -82,7 +79,7 @@ title: Sunghong Park
 ---
 
 ## Journal Publications
-<b><span>[</span> <sup>†</sup> Equally contributed authors & <sup>&#42;</sup> Corresponding authors <span>]</span></b>
+<b><span>[</span> <sup>†</sup> Co-first author & <sup>&#42;</sup> Corresponding author <span>]</span></b>
 
 - <b>[14]</b> <b>Sunghong Park<sup>†</sup></b>, Masaud Shah<sup>†</sup>, JeongHeun Yeon, Ji-Hye Choi, Muhammad Hussain, Hyunjung Shin<sup>&#42;</sup>, Hyun Goo Woo<sup>&#42;</sup>. <b>"MultiGENN: multiplex graph ensemble neural network for plasma proteomic profiling of neurodegenerative biomarkers"</b>. <span style="color:#3e8edc"><b><i>(Submitted to) IEEE Journal of Biomedical and Health Informatics</i></b> (2025)</span>
 
@@ -116,7 +113,7 @@ title: Sunghong Park
 ---
 
 ## Conference Presentations
-<b><span>[</span> <sup>†</sup> Equally contributed authors & <sup>&#42;</sup> Corresponding authors <span>]</span></b>
+<b><span>[</span> <sup>†</sup> Co-first author & <sup>&#42;</sup> Corresponding author <span>]</span></b>
 
 - <b>[31]</b> <b>Sunghong Park<sup>†</sup></b>, Dong-gi Lee<sup>†</sup>, Juhyeon Kim<sup>†</sup>, Hyunjung Shin<sup><span>&#42;</span></sup>, Hyun Goo Woo<sup><span>&#42;</span></sup> _et al_. <b>"NetPRS: SNP interaction aware network-based polygenic risk score for Alzheimer’s disease"</b>. <span style="color:#3e8edc"><b><i> IEEE EMBS BHI 2024 Conference</i></b> (2024)</span>
 
