@@ -11,7 +11,7 @@ title: Sunghong Park
   - 41 conference presentations.
   - Principal Investigator (PI), National Research Foundation of Korea (NRF) Basic Science Research Program.
 
-- Curriculum Vitae (Last updated: February 18, 2026).
+- Curriculum Vitae is Here (Last updated: February 18, 2026).
 
 
 ---
