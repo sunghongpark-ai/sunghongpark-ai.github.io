@@ -230,23 +230,23 @@ title: Sunghong Park
 
 - <b>[10]</b> <b>Sunghong Park</b>, Dong-gi Lee, Hyunjung Shin<sup><span>&#42;</span></sup>. "SentiWordNet based Korean Sentiment Dictionary Construction via Machine Learning". Proc. of Korea Computer Congress 2018 (KCC 2018), June 2018, Jeju (Korea).
 
-- <b>[9]</b> Dong-gi Lee, Myungjun Kim, <b>Sunghong Park</b>, Hyunjung Shin<sup><span>&#42;</span></sup>. "Inference on Chains of Disease Causal Relationship based on k-shortest Path Algorithm". Proc. of Korea Computer Congress 2018 (KCC2018), June 2018, Jeju (Korea).
+- <b>[09]</b> Dong-gi Lee, Myungjun Kim, <b>Sunghong Park</b>, Hyunjung Shin<sup><span>&#42;</span></sup>. "Inference on Chains of Disease Causal Relationship based on k-shortest Path Algorithm". Proc. of Korea Computer Congress 2018 (KCC2018), June 2018, Jeju (Korea).
 
-- <b>[8]</b> <b>Sunghong Park</b>, Junhee Cho, Hyunjung Shin<sup><span>&#42;</span></sup>. "Sentiment Dictionary Construction and Customer Evaluation Analysis via Machine Learning". Proc. of the Business Intelligence and Data Mining Conference (BIDM 2018 Spring).
+- <b>[08]</b> <b>Sunghong Park</b>, Junhee Cho, Hyunjung Shin<sup><span>&#42;</span></sup>. "Sentiment Dictionary Construction and Customer Evaluation Analysis via Machine Learning". Proc. of the Business Intelligence and Data Mining Conference (BIDM 2018 Spring).
 
-- <b>[7]</b> <b>Sunghong Park</b>, Hyunjung Shin<sup><span>&#42;</span></sup>. "Analysis of Word Polarity Expansion and Emotion Inducing Factors in Sentiment Analysis". Proc. of The Korean Software Congress 2017 (KSC 2017), December 2017, Busan (Korea).
+- <b>[07]</b> <b>Sunghong Park</b>, Hyunjung Shin<sup><span>&#42;</span></sup>. "Analysis of Word Polarity Expansion and Emotion Inducing Factors in Sentiment Analysis". Proc. of The Korean Software Congress 2017 (KSC 2017), December 2017, Busan (Korea).
 
-- <b>[6]</b> <b>Sunghong Park</b>, Dong-gi Lee, Hyunjung Shin<sup><span>&#42;</span></sup>. "Mirroring Disease Networks for Drug Repositioning". Proc. of the Korean Society for Cognitive Science (KSCS 2017), May 2017, Seoul (Korea).
+- <b>[06]</b> <b>Sunghong Park</b>, Dong-gi Lee, Hyunjung Shin<sup><span>&#42;</span></sup>. "Mirroring Disease Networks for Drug Repositioning". Proc. of the Korean Society for Cognitive Science (KSCS 2017), May 2017, Seoul (Korea).
 
-- <b>[5]</b> <b>Sunghong Park</b>, Dong-gi Lee, Hyunjung Shin<sup><span>&#42;</span></sup>. "Machine Learning Algorithm for Drug Repositioning". Proc. of the Business Intelligence and Data Mining Conference (BIDM 2016 Fall), November 2016, Seoul (Korea)*.
+- <b>[05]</b> <b>Sunghong Park</b>, Dong-gi Lee, Hyunjung Shin<sup><span>&#42;</span></sup>. "Machine Learning Algorithm for Drug Repositioning". Proc. of the Business Intelligence and Data Mining Conference (BIDM 2016 Fall), November 2016, Seoul (Korea).
 
-- <b>[4]</b> <b>Sunghong Park</b>, Dong-gi Lee, Hyunjung Shin<sup><span>&#42;</span></sup>. "Network Mirroring for Drug Repositioning", Proc. of Translational Bioinformatics Conference 2016 (TBC 2016).
+- <b>[04]</b> <b>Sunghong Park</b>, Dong-gi Lee, Hyunjung Shin<sup><span>&#42;</span></sup>. "Network Mirroring for Drug Repositioning", Proc. of Translational Bioinformatics Conference 2016 (TBC 2016).
 
-- <b>[3]</b> <b>Sunghong Park</b>, Dong-gi Lee and Hyunjung Shin<sup><span>&#42;</span></sup>. "Drug Repositioning with Disease Network Reflection", Proc. of the BIOINFO 2016 (BIOINFO 2016).
+- <b>[03]</b> <b>Sunghong Park</b>, Dong-gi Lee and Hyunjung Shin<sup><span>&#42;</span></sup>. "Drug Repositioning with Disease Network Reflection", Proc. of the BIOINFO 2016 (BIOINFO 2016).
 
-- <b>[2]</b> Jiwoo Han, Kangsik Shin, Kilyong Lee, Kyunghye Kim, Minsoo Kim, <b>Sunghong Park</b>, Hyunjung Shin<sup><span>&#42;</span></sup>. "Development plan for successful PyeongChang 2018 Olympic". Proc. of Joint Conference on Management Science and Industrial Engineering, April 2016, Jeju (Korea).
+- <b>[02]</b> Jiwoo Han, Kangsik Shin, Kilyong Lee, Kyunghye Kim, Minsoo Kim, <b>Sunghong Park</b>, Hyunjung Shin<sup><span>&#42;</span></sup>. "Development plan for successful PyeongChang 2018 Olympic". Proc. of Joint Conference on Management Science and Industrial Engineering, April 2016, Jeju (Korea).
 
-- <b>[1]</b> <b>Sunghong Park</b>, Dong-gi Lee, Hyunjung Shin<sup><span>&#42;</span></sup>. "Network Mirroring for Drug Repositioning". Proc. of Joint Conference on Management Science and Industrial Engineering (MSIE 2016), April 2016, Jeju (Korea).
+- <b>[01]</b> <b>Sunghong Park</b>, Dong-gi Lee, Hyunjung Shin<sup><span>&#42;</span></sup>. "Network Mirroring for Drug Repositioning". Proc. of Joint Conference on Management Science and Industrial Engineering (MSIE 2016), April 2016, Jeju (Korea).
 
 
 ---
