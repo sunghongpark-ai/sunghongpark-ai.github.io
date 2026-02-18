@@ -3,20 +3,20 @@ layout: default
 title: Sunghong Park
 ---
 
-# Portfolio Summary
+# Curriculum Vitae
+
+<b>[ [Download](https://github.com/user-attachments/files/25395074/CV_SunghongPark_.2026.02.19.pdf) &#124; Last Updated: February 19, 2026 ]</b>
+
+
+---
+
+## Research Interests
 
 - My research focuses on graph representation learning, semi-supervised learning, domain adaptation/transfer learning, and biomedical artificial intelligence models for disease diagnosis and biomarker discovery using multimodal data.
   - 13 peer-reviewed journal articles + 1 manuscript under review (first/co-first author).
   - 17 patent applications (KR/PCT/US), including 6 published applications.
   - 41 conference presentations.
   - Principal Investigator (PI), National Research Foundation of Korea (NRF) Basic Science Research Program.
-
-- <b>Curriculum Vitae</b> [ [<b>Download</b>](https://github.com/user-attachments/files/25395074/CV_SunghongPark_.2026.02.19.pdf) &#124; Last Updated: February 19, 2026 ].
-
-
----
-
-## Research Interests
 
 - <b>Machine Learning Algorithm</b>  
   - Graph-based representation learning, Semi-supervised learning, Domain adaptation, Transfer learning, Model optimization, Neural Networks, Applied statistics.
