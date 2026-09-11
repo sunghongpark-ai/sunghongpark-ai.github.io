@@ -5,8 +5,7 @@ title: Sunghong Park
 
 # Curriculum Vitae
 
-<b>[ [Download](https://github.com/user-attachments/files/25395074/CV_SunghongPark_.2026.02.19.pdf) &#124; Last Updated: February 19, 2026 ]</b>
-
+<b>[ [Download](https://github.com/user-attachments/files/32103158/CV_SunghongPark_.2026.09.01.pdf) &#124; Last Updated: September 01, 2026 ]</b>
 
 ---
 
@@ -32,7 +31,10 @@ title: Sunghong Park
 
 ## Experience & Education
 
-- <b>Post-doctoral Researcher</b> (September 2022 - Present)
+- <b>Post-doctoral Researcher</b> (September 2026 - Present)
+  - Korea Advanced Institute of Science and Technology, Daejeon, Republic of Korea
+
+- <b>Post-doctoral Researcher</b> (September 2022 - August 2026)
   - Ajou University School of Medicine, Suwon, Republic of Korea
 
 - <b>Ph.D. in Artificial Intelligence</b> (March 2016 - August 2022)
@@ -49,6 +51,8 @@ title: Sunghong Park
 ---
 
 ## Grant & Funding
+
+- <b>[02]</b> <b>PI: [2026.09 - 2029.08.]</b>, Basic Science Research Program, <b>"Development of an Explainable AI Model for Long-term Brain Age Trajectory Prediction Based on Dual-stream Diagnostic-Prognostic Estimation Using Multimodal Data" (RS-2026-25580544)</b>, supported by the National Research Foundation of Korea (NRF) funded by the Ministry of Education, Republic of Korea.
 
 - <b>[01]</b> <b>PI: [2022.09 - 2025.08.]</b>, Basic Science Research Program, <b>"Multi-Modal and Multi-Domain based Machine Learning Algorithms for Dementia Progression Prediction" (2022R1A6A3A01086784)</b>, supported by the National Research Foundation of Korea (NRF) funded by the Ministry of Education, Republic of Korea.
 
