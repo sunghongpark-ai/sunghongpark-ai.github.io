@@ -1,0 +1,43 @@
+{
+  "name": "Sunghong Park",
+  "name_ko": "박성홍",
+  "degree": "Ph.D.",
+  "role": "Postdoctoral Researcher",
+  "institution": "Korea Advanced Institute of Science and Technology",
+  "institution_short": "KAIST",
+  "department": "Life Science Research Institute",
+  "location": "Daejeon, Republic of Korea",
+  "email": "sunghongpark.ai@kaist.ac.kr",
+  "github": "https://github.com/sunghongpark-ai",
+  "scholar": "https://scholar.google.com/citations?user=qodN5GQAAAAJ&hl=en",
+  "cv_url": "https://github.com/user-attachments/files/32103158/CV_SunghongPark_.2026.09.01.pdf",
+  "cv_updated": "September 1, 2026",
+  "source_url": "https://sunghongpark-ai.github.io/",
+  "content_reviewed": "2026-10-22",
+  "base_url": "https://sunghongpark-ai.github.io",
+  "target_domain": "sunghongpark.ai",
+  "description": "Sunghong Park researches graph learning, domain adaptation, and biomedical AI at KAIST, connecting heterogeneous data for disease diagnosis and biomarker discovery.",
+  "intro": "I develop machine learning methods that connect heterogeneous data, learn with limited labels, and bring biological structure into biomedical AI.",
+  "biography": "I am a postdoctoral researcher at the Life Science Research Institute, KAIST. My research connects graph representation learning, semi-supervised learning, and domain adaptation with biomedical problems, including dementia subtyping, longitudinal prediction, and biomarker discovery. I received my Ph.D. in Artificial Intelligence from Ajou University, advised by Professor Hyunjung Shin, and previously conducted postdoctoral research at Ajou University School of Medicine.",
+  "research": [
+    {"id":"graph","number":"01","title":"Graph representation learning","short_title":"Graph learning","description":"Learning from relationships, not just individual observations. I study graph-based and semi-supervised methods that use network structure when labels are scarce.","question":"How can multiple relationships support learning when supervision is limited?","methods":["Semi-supervised learning","Multiplex graphs","Structure-aware representations"],"publications":["emgpn-2025","ppixgpn-2025","network-mirroring-2017"]},
+    {"id":"biomedical","number":"02","title":"Explainable biomedical AI","short_title":"Biomedical AI","description":"Connecting neuroimaging, plasma proteomics, and biological knowledge to study disease heterogeneity and interpretable biomarkers.","question":"How can biological structure make multimodal predictions more interpretable?","methods":["Multimodal integration","Proteomics & neuroimaging","Biologically informed models"],"publications":["neurofann-2025","bigpn-2025","ppi-mci-2024"]},
+    {"id":"adaptation","number":"03","title":"Learning across domains & time","short_title":"Domain adaptation","description":"Transferring information between heterogeneous populations, measurement settings, and time points while preserving useful differences.","question":"What should be shared—and what should be preserved—across domains?","methods":["Domain adaptation","Longitudinal learning","Multisite harmonization"],"publications":["pda-2025","mutual-2024","harmonization-2024"]}
+  ],
+  "experience": [
+    {"dates":"Sep 2026 — present","title":"Postdoctoral Researcher","institution":"KAIST","detail":"Life Science Research Institute · Daejeon, Republic of Korea","type":"experience"},
+    {"dates":"Sep 2022 — Aug 2026","title":"Postdoctoral Researcher","institution":"Ajou University School of Medicine","detail":"Suwon, Republic of Korea","type":"experience"},
+    {"dates":"Mar 2016 — Aug 2022","title":"Ph.D. in Artificial Intelligence","institution":"Ajou University","detail":"Thesis: Graph Domain Adaptation for Semi-Supervised Learning. Advisor: Professor Hyunjung Shin.","type":"education"},
+    {"dates":"Mar 2009 — Feb 2016","title":"B.S. in Industrial Engineering","institution":"Ajou University","detail":"Department of Industrial Engineering · Suwon, Republic of Korea","type":"education"},
+    {"dates":"Mar 2006 — Feb 2009","title":"Secondary education","institution":"Daegu Science High School","detail":"Daegu, Republic of Korea","type":"education"}
+  ],
+  "grants": [
+    {"id":"brain-age","dates":"Sep 2026 — Aug 2029","status":"Active","role":"Principal Investigator","title":"Explainable AI for long-term brain age trajectories","official_title":"Development of an Explainable AI Model for Long-term Brain Age Trajectory Prediction Based on Dual-stream Diagnostic-Prognostic Estimation Using Multimodal Data","number":"RS-2026-25580544","funder":"National Research Foundation of Korea (NRF)","program":"Basic Science Research Program · Ministry of Education, Republic of Korea","description":"Research on multimodal, explainable models that connect diagnostic estimation with long-term prognostic trajectories. This is an active research objective, not a claim of completed clinical validation."},
+    {"id":"dementia-progression","dates":"Sep 2022 — Aug 2025","status":"Completed funding period","role":"Principal Investigator","title":"Multimodal learning for dementia progression","official_title":"Multi-Modal and Multi-Domain based Machine Learning Algorithms for Dementia Progression Prediction","number":"2022R1A6A3A01086784","funder":"National Research Foundation of Korea (NRF)","program":"Basic Science Research Program · Ministry of Education, Republic of Korea","description":"A research program on multimodal and multi-domain learning methods for dementia progression prediction."}
+  ],
+  "updates": [
+    {"date":"2026.09","text":"Joined KAIST as a postdoctoral researcher at the Life Science Research Institute.","href":"cv.html#experience","label":"Career"},
+    {"date":"2026.09","text":"Started an NRF-supported project on explainable AI for long-term brain age trajectory prediction.","href":"projects.html#brain-age","label":"Funding"},
+    {"date":"2025.12","text":"Multimodal neuroimage integration with explainable multiplex graph propagation, published in Neural Networks.","href":"publications.html#emgpn-2025","label":"Publication"}
+  ]
+}
